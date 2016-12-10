@@ -18,8 +18,7 @@
   + Exit: ``ESC``
 
 ## Windows
-### NVDA
-[NVDA Free Download](http://www.nvaccess.org/)
+### NVDA - http://www.nvaccess.org/
 
 #### Tips
 - Pair up with Firefox
