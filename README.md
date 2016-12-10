@@ -18,7 +18,8 @@
   + Exit: ``ESC``
 
 ## Windows
-### [NVDA](http://www.nvaccess.org/)
+### NVDA
+[NVDA Free Download](http://www.nvaccess.org/)
 
 #### Tips
 - Pair up with Firefox
@@ -33,3 +34,4 @@
   + Open: ``Insert + F7``
   + Navigate: ``Left`` and ``Right`` arrow keys between elements
   + Navigate: ``Tab`` key to move down
+
