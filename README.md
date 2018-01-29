@@ -29,7 +29,7 @@
   + Run ``nvda``
 - Quit: Run ``nvda -q``
 - Screen Reader Cursor: ``Up`` and ``Down`` Arrow keys read one line at a time
-- Element List: Similar to VO Rotor, a menu of elmeents on teh page
+- Element List: Similar to VO Rotor, a menu of elments on the page
   + Open: ``Insert + F7``
   + Navigate: ``Left`` and ``Right`` arrow keys between elements
   + Navigate: ``Tab`` key to move down
